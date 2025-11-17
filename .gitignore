@@ -1,6 +1,8 @@
 target/
+!target/apidocs/
+!target/apidocs/**
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
+!**/src/maigit add .gitignoren/**/target/
 !**/src/test/**/target/
 .kotlin
 
